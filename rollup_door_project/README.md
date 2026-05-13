@@ -149,12 +149,11 @@ Potential future improvements include:
 
 ## Screenshots
 
-Add screenshots here.
 
 Example:
 
 ```md
-![Main Ladder Logic](roolup_door.png)
+![Screenshot](rollup_door.png)
 ```
 
 ---
