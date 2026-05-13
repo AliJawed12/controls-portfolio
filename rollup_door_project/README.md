@@ -1,4 +1,4 @@
-<img width="959" height="464" alt="rollup_door" src="https://github.com/user-attachments/assets/1982abf9-eac9-4ad2-9d94-bd2beea2c8ac" />
+
 # Rollup Door PLC Project
 
 ## Overview
@@ -155,6 +155,7 @@ Example:
 
 ```md
 ![Screenshot](rollup_door.png)
+<img width="959" height="464" alt="rollup_door" src="https://github.com/user-attachments/assets/1982abf9-eac9-4ad2-9d94-bd2beea2c8ac" />
 ```
 
 ---
